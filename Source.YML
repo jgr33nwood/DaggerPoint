@@ -1,0 +1,23 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: DaggerPoint.Apk
+compressionType: false
+doNotCompress:
+- arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '6'
+  targetSdkVersion: '6'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 0.1
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'
+
